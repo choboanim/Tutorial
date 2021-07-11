@@ -1,0 +1,16 @@
+회원가입
+repositories 생성(프로젝트가 저장되는 장소 생성)
+생성된 본인 url
+git 소프트웨어 설치하기
+cmd 실행
+1. git
+2. git --version
+3. git config --global user.name
+4. git config --global user.email
+5. c드라이브에 폴더생성
+6. 생성 url 복사
+7. cd 폴더속성
+8. git  clone 내url
+-생성된 파일 확인가능
+9. 텍스트파일생성 이거
+10.
